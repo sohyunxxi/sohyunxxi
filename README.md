@@ -27,7 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohyunxxi&layout=compact&theme=radical" />
 </p>
 
-## 🔍 More abouut me?
+## 🔍 More about me?
 
 <p align="center">
   <a href="mailto:dlthgus15780@gmail.com">
